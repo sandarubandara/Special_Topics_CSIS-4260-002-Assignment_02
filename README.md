@@ -1,8 +1,10 @@
 # Special_Topics_CSIS-4260-002-Assignment_02
 
 Dependencies to download if applicable:
-  pip install selenium pandas webdriver-manager
-  !pip install vaderSentiment
+
+    pip install selenium pandas webdriver-manager
+  
+    !pip install vaderSentiment
 
 
 ---- ANALYSIS ----
